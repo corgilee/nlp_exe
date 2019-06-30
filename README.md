@@ -1,2 +1,2 @@
-# nlp_exe
-exercise for nlp
+
+The is a collecion of nlp exercise
